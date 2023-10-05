@@ -1,0 +1,4 @@
+!
+! Title: AdGuard DNS filter
+!
+||ratsit.se^
