@@ -2,3 +2,5 @@
 ! Title: AdGuard DNS filter
 !
 ||ratsit.se^
+||mrkoll.se^
+||allabolag.se^
